@@ -23,7 +23,7 @@ Membuat sistem web yang scalable, dan berbagi ilmu .
 
 <div align="center">
 
-![Tech Stack](https://skillicons.dev/icons?i=js,,git,figma)
+![Tech Stack](https://skillicons.dev/icons?i=js,html,css,git,figma)
 
 </div>
 
